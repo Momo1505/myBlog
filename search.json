@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Hi! My name is Mouhamed Sow. I am currently pursuing a diploma in computational engineering at IMT Atlantique, a Grande École in France.\nThrough this blog, I intend to share my insights and experiences as I learn deep learning with Fastai. I hope these reflections will be helpful to other learners.\nEnglish is not my first language, so please forgive any grammatical errors."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mouhamed’s Blog",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi! My name is Mouhamed Sow. I am currently pursuing a diploma in computational engineering at IMT Atlantique, a Grande École in France.\nThrough this blog, I intend to share my insights and experiences as I learn deep learning with Fastai. I hope these reflections will be helpful to other learners.\nEnglish is not my first language, so please forgive any grammatical errors."
   }
 ]
